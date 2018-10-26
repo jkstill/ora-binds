@@ -127,7 +127,7 @@ The script _gen-plans-from-binds.pl_ is currently under development and it conta
 
 Feel free to issue a pull request. :)
 
-#Scripts
+# Scripts
 
 ## extract-binds.pl
 
