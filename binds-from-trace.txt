@@ -1,0 +1,7 @@
+
+Bind#0  value="JKSTILL"
+Bind#1  value="TABLE"
+newbind
+Bind#0  value="LOGGER"
+Bind#1  value="TABLE"
+newbind
